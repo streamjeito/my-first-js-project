@@ -3,3 +3,4 @@ console.log(x)
  
 f = 12
 console.log(f)
+navigator
