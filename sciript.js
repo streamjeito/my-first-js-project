@@ -1,4 +1,2 @@
-// variable 
-// constant 
-const p =152
-p= 1523
+let x = 5 + 3 - 2 -1 == 3 + 2
+console.log(x)
